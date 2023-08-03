@@ -1,3 +1,8 @@
 Flask==2.3.2
 astunparse==1.6.3
 pythainlp==4.0.2
+pandas==2.0.3
+scikit-learn==1.3.0
+nltk==3.8.1
+Flask-Cors==4.0.0
+openpyxl==3.1.2
